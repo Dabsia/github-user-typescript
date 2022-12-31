@@ -1,0 +1,67 @@
+.DetailsBox{
+    height: 50vh;
+    margin-top: 1rem;
+    background-color: #1F2A48;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+}
+
+.right{
+    width: 72%;
+    margin:  0 auto;
+    
+}
+.userNameDetails{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.activities p{
+    margin: 5px;
+}
+
+.activities{
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    background-color: #141C2F;
+    text-align: center;
+    border-radius: 10px;
+    padding:10px;
+}
+
+.left{
+    width: 20%;
+    height: 45%;
+    margin-top: 1rem;
+    padding-left: 1rem;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.newIcon{
+    display: flex;
+    color: #fff;
+    margin-right: 5px;
+}
+
+.socialsContainer{
+    margin-top: 1rem;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.socials{
+    display: flex;
+    cursor: pointer;
+}
